@@ -1,0 +1,25 @@
+# Arquivos de dados gerados pela pipeline
+dados_vendas/
+*.db
+*.sqlite
+*.sqlite3
+mercado_smartphones.db
+
+# Ambientes virtuais e pacotes Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de configuração de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
